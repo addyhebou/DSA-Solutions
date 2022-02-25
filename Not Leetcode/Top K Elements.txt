@@ -1,0 +1,28 @@
+Keywords:
+* Most frequent
+* Top K elements
+* K Largest
+* K Smallest
+* Kth Smallest
+* Kth Largest
+
+Use heaps !!
+
+To find the smallest vals: use MaxHeap (heap should only hold k elements)
+To find the largest vals: use MinHeap (heap should only hold k elements)
+
+When Heap reaches k size, pop!
+Then either 
+a) pop the top only (if only needing one element)
+b) pop the entire heap tree (if needing k elements)
+
+
+
+Leetcode exercise:
+215. Kth Largest Element In Array
+230. Kth Smallest Element in a BST
+347. Top K Frequent Elements
+451. Sort Characters By Frequency
+658. Find K Closest Elementss
+973. K Closest Points to Origin
+

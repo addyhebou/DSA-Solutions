@@ -1,0 +1,9 @@
+"London" -> "Los Angeles"
+"NYC" -> "London", "Los Angeles", "Washington DC"
+"Washington DC" -> "Los Angeles"
+"Los Angeles" -> "Washington DC"
+
+"London" -> "Los Angeles"
+"NYC" -> "London", "Los Angeles", "Washington DC"
+"Washington DC" -> "Los Angeles"
+"Los Angeles" -> "Washington DC", "NYC"

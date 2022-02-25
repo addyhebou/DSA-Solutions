@@ -1,0 +1,15 @@
+Keywords:
+FILL IN
+
+Use two pointers
+
+Two-pointers can function different ways:
+Fast-Slow pointers
+Omnidirectional pointers (both going in one direction -> ->)
+Opposite pointers (both going in opposing direction -> <-)
+
+
+
+Leetcode exercise:
+
+

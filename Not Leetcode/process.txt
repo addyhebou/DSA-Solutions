@@ -1,0 +1,27 @@
+1. Listen Carefully
+	1. mentally note any unique information in the problem
+	2. ask for any assumptions to be made 
+    (common ones: 
+    null values if parameters arent passed in, 
+    if strings, are we using unicode or ASCII
+    trees: are we given a binary tree or a binary search tree (latter being nodes in proper order))
+    trees: are trees balanced or not
+2. Draw an example
+3. State a brute force algorithm
+4. Optimize
+	1. use a fresh example
+	2. look for any unused information
+	3. prioritize time over space
+	4. use a hash table
+5. Walk Through Whiteboard Code
+6. Implement
+7. Test
+    1. explain the lines of code for a code reviewer
+    2. any weird looking code (for-loops with starting i=2 or i=1, or weird end places)
+    3. hot spots
+        a. recursion - base cases   
+        b. binary trees - null nodes
+        c. linked list - start and end of iterating
+        d. integer division
+    4. Test with small test cases – small test sizes
+    5. special cases
